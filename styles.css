@@ -1,0 +1,43 @@
+.background {
+  background: rgba(245, 225, 161, 0.479);
+  color:rgba(5, 5, 122, 0.918);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+body { 
+  color: midnightblue;
+}
+
+.header_footer1{
+  width: 95%;
+  background: lightblue;
+  border: 2px groove darkblue;
+  text-transform:uppercase;
+  font-family: 'Courier New', Courier, monospace;
+  letter-spacing:0.2em;
+  padding: 10px;
+  color:midnightblue;
+  text-align: center;
+}
+.header_footer2{
+  width: 95%;
+  background: lightblue;
+  border: 2px groove darkblue;
+  text-transform:normal;
+  font-family: 'Courier New', Courier, monospace;
+  letter-spacing:0.2em;
+  padding: 10px;
+  color:midnightblue;
+  text-align: center;
+}
+
+#headerH2 {
+  width: 95%;
+  background-color: rgb(245, 253, 253);
+  padding: 10px;
+  border: 2px dashed midnightblue;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+}
